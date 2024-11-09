@@ -75,7 +75,6 @@ I am always striving to expand my skill set, and here are some of my current are
 I'm always excited to connect with like-minded professionals, share ideas, and collaborate on projects. If you're interested in discussing tech, brainstorming new ideas, or exploring potential collaborations, feel free to reach out to me.
 
 - 🔗 **GitHub**: [Vishu050](https://github.com/Vishu050)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](#) (Add link)
-- 📧 **Email**: [Your Email](mailto:your.email@example.com) (Add link)
+- 📧 **Email**: mohanramvlogs@gmail.com (Add link)
 
 Thank you for visiting my GitHub profile! Let’s build something incredible together.
