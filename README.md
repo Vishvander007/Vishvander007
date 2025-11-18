@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vishvender Dhoot!
+# 👋 Hi, I'm Vishvander Dhoot!
 
 Welcome to my GitHub! I'm a versatile developer and data specialist with a strong foundation in **programming**, **data analysis**, **machine learning**, and **web development**. I blend technical expertise with creative skills in design and multimedia, making me a well-rounded professional ready to tackle complex, multidisciplinary projects.
 
@@ -19,7 +19,6 @@ I’m deeply passionate about leveraging technology to create innovative solutio
 
 ### 🌐 Web Development
 - **Frontend**: HTML, CSS, JavaScript, and **React** for building interactive, responsive user interfaces.
-- **Backend**: Django framework to build robust and scalable web applications.
 
 ### 🗄️ Databases
 - **MySQL**: Skilled in SQL for managing, querying, and maintaining relational databases, ensuring data integrity and optimizing performance for complex queries.
@@ -75,6 +74,6 @@ I am always striving to expand my skill set, and here are some of my current are
 I'm always excited to connect with like-minded professionals, share ideas, and collaborate on projects. If you're interested in discussing tech, brainstorming new ideas, or exploring potential collaborations, feel free to reach out to me.
 
 - 🔗 **GitHub**: [Vishu050](https://github.com/Vishu050)
-- 📧 **Email**: mohanramvlogs@gmail.com (Add link)
+- 📧 **Email**: vishvanderdhoot05@gmail.com
 
 Thank you for visiting my GitHub profile! Let’s build something incredible together.
